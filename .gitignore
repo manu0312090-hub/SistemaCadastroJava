@@ -1,0 +1,15 @@
+# Arquivos compilados
+out/
+*.class
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.log
+*.tmp
