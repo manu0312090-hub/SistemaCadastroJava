@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Cadastro de Usuários
 
 Aplicação desktop desenvolvida em Java Swing com integração ao MySQL, utilizando o padrão arquitetural MVC.
@@ -65,3 +66,7 @@ javac -encoding UTF-8 -cp ".\lib\mysql-connector-j-26.10.0.jar" -d .\out $fontes
 ```powershell
 java -cp ".\out;.\lib\mysql-connector-j-26.10.0.jar" br.com.sistema.Main
 ```
+=======
+# SistemaCadastroJava
+Sistema de cadastro de usuário com Java Swing e MySQL 
+>>>>>>> 654b6df4b94dbab964bb68f2426664e1e26f0b46
